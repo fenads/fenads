@@ -1,15 +1,18 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=30a14e&height=160&section=header&animation=twinkling"/>
+
 ##
-### Olá sou Luiz Silva 🙋🏽‍♂️
+# Olá sou Luiz Silva 🙋🏽‍♂️ - Dev e Esp em Cybersecurity
+
 
 [![Blog](https://img.shields.io/website?label=luizsilva.eti.br&style=for-the-badge&url=https://luizsilva.eti.br/)](https://luizsilva.eti.br/)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Ofenads)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luizfenads/)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/fenads)
 
-![Fenads GitHub stats](https://github-readme-stats.vercel.app/api?username=fenads&show_icons=true&theme=radical&locale=pt-br&title_color=fff&icon_color=fff&text_color=30a14e&=a818af)
+![Fenads GitHub stats](https://github-readme-stats.vercel.app/api?username=fenads&show_icons=true&theme=radical&locale=pt-br&title_color=fff&icon_color=fff&text_color=30a14e)
 
 ##
-### Tecnologias que eu uso no meu dia
+## Tecnologias que eu uso no meu dia
 
 
 <div styles="display: inline_block"><br/>
@@ -28,7 +31,7 @@
 </div>
 
 ##
-### Sistemas operacionais que utilizo nos meus projetos
+## Sistemas operacionais que utilizo nos meus projetos
 
 
 <div styles="display: inline_block">
@@ -38,7 +41,7 @@
 </div>
 
 ##
-### Serviços de nuvem que administro
+## Serviços de nuvem que administro
 
 
 <div styles="display: inline_block">
@@ -49,7 +52,7 @@
 </div>
 
 ##
-### Onde gerencio meus projetos
+## Onde gerencio meus projetos
 
 
 <div styles="display: inline_block">
@@ -59,7 +62,16 @@
     <img align="center" alt="gitlab" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"/>     
 </div>
 
+<br/>
 
+## Contato
+[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-0077B5?style=for-the-badge&logo=gitbook&logoColor=white)](https://www.dio.me/users/ofenads)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/luiz-fernando-santos-da-silva-47349971)
 
+<br/>
 
 ![snake gif](https://github.com/fenads/fenads/blob/output/github-contribution-grid-snake.svg)
+
+<br/>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=30a14e&height=130&section=footer"/>
